@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Axios Test</title>
+	<title>MamuthScafold</title>
 
 	<!-- inject:css -->
   	<!-- endinject -->
@@ -12,11 +12,11 @@
 </head>
 <body>
 
-	<div class='about'>
-		<div class='about-bio'>
-			<h1>MamuthScafold</h1>
-			<p>Ambiente configurado com sucesso.</p>
-		</div>
+	<div class='box'>
+		<h1>Mamuth for Devs</h1>
+		<p>Ambiente configurado com sucesso.</p>
+
+		<center><div class="loader"></div></center>
 	</div>
 
 	<!-- inject:js -->

@@ -1,9 +1,23 @@
 @import './_bootstrap.scss';
 
-.about-bio {
-  background: #efefef;
+body {
+  background-color: black;
+}
+
+.box {
+  background: black;
   text-align: center;
-  height: 100vh;
+  margin-top: 40vh;
+  color: #B7D051;
+  opacity: 0;
 
   @extend .col-md-12;
+
+  .loader {
+    opacity: 0;
+    margin: 0 auto;
+    background-color: #B7D051;
+    height: 2px;
+    width: 0%;
+  }
 }

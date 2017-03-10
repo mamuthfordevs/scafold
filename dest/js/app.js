@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".loader").animate({width:"100%",opacity:1},1e3,function(){$(".loader").animate({width:"5%"},1e3)}),$(".box").animate({opacity:1},1e3)});
