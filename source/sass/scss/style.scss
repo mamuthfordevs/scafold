@@ -1,0 +1,9 @@
+@import './_bootstrap.scss';
+
+.about-bio {
+  background: #efefef;
+  text-align: center;
+  height: 100vh;
+
+  @extend .col-md-12;
+}
